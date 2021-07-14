@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small Dump Truck (free scan)
+* source:	https://sketchfab.com/3d-models/small-dump-truck-free-scan-ac775d1288e84833b3d1ed9fced5b228
+* author:	Léonard_Doye Alias Leoskateman (https://sketchfab.com/leoskateman)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small Dump Truck (free scan)" (https://sketchfab.com/3d-models/small-dump-truck-free-scan-ac775d1288e84833b3d1ed9fced5b228) by Léonard_Doye Alias Leoskateman (https://sketchfab.com/leoskateman) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
